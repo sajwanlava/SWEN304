@@ -1,2 +1,2 @@
-# swen304
-Database System Engineering
+# SWEN304 - Database System Engineering
+The course addresses fundamental principles underlying databases and database management systems. It covers the structure and principles of the relational data model, including SQL, and the principled design of the relational database schema. It also addresses issues in database transaction procession, concurrency control, recovery, and the complexity of query processing.
